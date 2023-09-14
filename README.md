@@ -1,4 +1,4 @@
-# Security Curriculum Spanish
+# Security Curriculum Spanish (constant changing)
 This curriculum will be created for spanish speakers and it's in constant changes (Sept 11,2023).
 
 The goal for this curriculum is to create a plan to improve the people's security in the virtual era, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). I am using some of their frameworks to help navigate through the different steps of analyzing cybersecurity incidents and response, risks and integrate my analysis into a general security strategy:
